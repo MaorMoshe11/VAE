@@ -15,6 +15,12 @@ In this notebook, we focus on:
 
 This work is not intended as a homework submission but rather as an educational experiment and applied guide for those wishing to deepen their intuition about VAEs.
 
+## Model Architecture
+
+The following diagram illustrates the architecture of the Variational Autoencoder implemented in this project:
+
+![VAE Architecture](architecture.png)
+
 ## Features
 
 - Modular VAE implementation
@@ -26,6 +32,7 @@ This work is not intended as a homework submission but rather as an educational 
 ## File Structure
 
 - `vae_experiments.ipynb`: Main notebook with code, training, and visualizations
+- `architecture.png`: Illustration of the VAE model architecture
 - `generated_images/`: (Optional) Folder to save outputs at different training stages
 
 ## Requirements
